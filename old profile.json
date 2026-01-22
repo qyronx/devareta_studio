@@ -1,0 +1,2551 @@
+{
+  "C:/ptcgp/20260110_140101.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 45,
+        "y": 152,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 468,
+        "y": 295,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 421,
+        "y": 698,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "disable_image",
+        "delay": 0.0,
+        "absolute": false,
+        "target": "C:/ptcgp/진입.png",
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "disable_image",
+        "delay": 0.0,
+        "absolute": false,
+        "target": "C:/ptcgp/하클팩진입.png",
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_141112.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 255,
+        "y": 409,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_141147.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 276,
+        "y": 425,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "type_text",
+        "delay": 0.0,
+        "absolute": false,
+        "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "enter": true,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 391,
+        "y": 637,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 60.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_142901.png": {
+    "actions": [],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": "jp.pokemon.pokemontcgp",
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_143020.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 1.0,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140223.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 139,
+        "y": 696,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 149,
+        "y": 469,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 405,
+        "y": 703,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 390,
+        "y": 565,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 271,
+        "y": 855,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140353.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 383,
+        "y": 646,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140431.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": true,
+        "x": 264,
+        "y": 495,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 273,
+        "y": 867,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": true,
+        "x": 285,
+        "y": 572,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 275,
+        "y": 865,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 87,
+        "y": 644,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 86,
+        "y": 707,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 269,
+        "y": 854,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140653.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140718.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140759.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 389,
+        "y": 638,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_140840.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 277,
+        "y": 645,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_141001.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 275,
+        "y": 769,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_141025.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 386,
+        "y": 768,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_143910.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 275,
+        "y": 641,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144221.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 173,
+        "y": 635,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 272,
+        "y": 629,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 1.0,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144418.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 384,
+        "y": 640,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144450.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 272,
+        "y": 558,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144531.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144613.png": {
+    "actions": [
+      {
+        "type": "drag",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 10,
+        "y": 557,
+        "x2": 519,
+        "y2": 557,
+        "duration": 900,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144720.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 281,
+        "y": 496,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.5,
+        "absolute": true,
+        "x": 265,
+        "y": 518,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.5,
+        "absolute": true,
+        "x": 265,
+        "y": 524,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.5,
+        "absolute": true,
+        "x": 273,
+        "y": 484,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 285,
+        "y": 557,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_144917.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 495,
+        "y": 905,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "drag",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 254,
+        "y": 894,
+        "x2": 269,
+        "y2": 29,
+        "duration": 100,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145116.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145149.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145227.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 282,
+        "y": 862,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145302.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 384,
+        "y": 644,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145406.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 487,
+        "y": 830,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      396,
+      734,
+      148,
+      176
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145523.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.5,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 292,
+        "y": 461,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145619.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 277,
+        "y": 900,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145724.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145801.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.5,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 291,
+        "y": 375,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145849.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 267,
+        "y": 766,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_145958.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150032.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      415,
+      825,
+      125,
+      135
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150129.png": {
+    "actions": [
+      {
+        "type": "hold_until_gone",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      432,
+      852,
+      102,
+      104
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.6,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150332.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 1.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.9,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150413.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 273,
+        "y": 618,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150447.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150510.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150535.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 157,
+        "y": 691,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150626.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150751.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 383,
+        "y": 765,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150819.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 267,
+        "y": 517,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_150907.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 389,
+        "y": 813,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151002.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 199,
+        "y": 580,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151044.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151142.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 256,
+        "y": 898,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151246.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 403,
+        "y": 772,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151316.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151357.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151424.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151452.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 272,
+        "y": 856,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151605.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      306,
+      14,
+      225,
+      218
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 1.0,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151816.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 1.0,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_151854.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 271,
+        "y": 616,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/팩선택발동.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 269,
+        "y": 911,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "enable_image",
+        "delay": 0.0,
+        "absolute": false,
+        "target": "C:/ptcgp/진입.png",
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_152041.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 269,
+        "y": 633,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_152641.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 275,
+        "y": 765,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_152718.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 399,
+        "y": 749,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_153026.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_153058.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 397,
+        "y": 773,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_153155.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 405,
+        "y": 819,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_153436.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154025.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 1.0,
+        "absolute": true,
+        "x": 155,
+        "y": 676,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 6.0,
+        "absolute": true,
+        "x": 169,
+        "y": 925,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 237,
+        "y": 807,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154114.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.6,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154245.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 375,
+        "y": 761,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154342.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 387,
+        "y": 835,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154413.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 277,
+        "y": 765,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154514.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154552.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154700.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_154748.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 273,
+        "y": 641,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_155619.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 273,
+        "y": 627,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_152422.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/스크린샷 2026-01-04 170259.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_182749.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 271,
+        "y": 436,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_185711.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 285,
+        "y": 769,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260110_185825.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 404,
+        "y": 767,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_080430.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 269,
+        "y": 639,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_085804.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 279,
+        "y": 897,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_090209.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 279,
+        "y": 767,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_092422.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 273,
+        "y": 837,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_092521.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 359,
+        "y": 837,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_095710.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 271,
+        "y": 761,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_101016.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 387,
+        "y": 768,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_101134.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 390,
+        "y": 769,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_101215.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 379,
+        "y": 767,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260111_111149.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/메갸라.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": false
+  },
+  "C:/ptcgp/20260112_095214.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 194,
+        "y": 599,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/진입.png": {
+    "actions": [
+      {
+        "type": "random_wait",
+        "delay": 5.0,
+        "absolute": false,
+        "min": 0.0,
+        "max": 0.0,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 2.0,
+        "absolute": true,
+        "x": 483,
+        "y": 209,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "drag",
+        "delay": 1.0,
+        "absolute": true,
+        "x": 281,
+        "y": 515,
+        "x2": 271,
+        "y2": 39,
+        "duration": 300,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 300,
+        "y": 821,
+        "until": false,
+        "until_target": null
+      },
+      {
+        "type": "drag",
+        "delay": 0.0,
+        "absolute": true,
+        "until": true,
+        "until_target": "C:/ptcgp/샤이닝하이.png",
+        "x": 277,
+        "y": 751,
+        "x2": 275,
+        "y2": 550,
+        "duration": 300
+      },
+      {
+        "type": "disable_image",
+        "delay": 0.0,
+        "absolute": false,
+        "target": "C:/ptcgp/진입.png",
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      324,
+      11,
+      218,
+      239
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 1.0,
+    "enabled": false
+  },
+  "C:/ptcgp/펄기아팩.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": false
+  },
+  "C:/ptcgp/펄기아팩선택.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260112_134305.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 381,
+        "y": 371,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260112_182319.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 268,
+        "y": 898,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260112_220843.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 271,
+        "y": 904,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260113_115607.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260113_122304.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": true,
+        "x": 379,
+        "y": 288,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260113_153933.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.87,
+    "enabled": true
+  },
+  "C:/ptcgp/20260113_155047.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": [
+      164,
+      636,
+      123,
+      144
+    ],
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/샤이닝하이.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": false
+  },
+  "C:/ptcgp/샤이닝하이팩선택.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/메갸라팩.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": false
+  },
+  "C:/ptcgp/메파비.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/메파비진입.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/하클.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260115_151148.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/하클팩진입.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0,
+        "until": false,
+        "until_target": null
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/20260118_164142.png": {
+    "actions": [
+      {
+        "type": "tap",
+        "delay": 0.0,
+        "absolute": false,
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  },
+  "C:/ptcgp/결과.png": {
+    "actions": [
+      {
+        "type": "discord_webhook",
+        "delay": 0.0,
+        "absolute": false,
+        "webhook_url": "https://discordapp.com/api/webhooks/1462416062007218307/9Iwh_7XkN-3udnw88tNq_fxuvAmuAsVWVxiSitwIKYU7f1w4lkk2vtR54lnkShtX9Ll7",
+        "send_screenshot": true,
+        "message": ""
+      }
+    ],
+    "cooldown": 0.0,
+    "roi": null,
+    "kill_package": null,
+    "launch_package": null,
+    "stop_after": false,
+    "threshold": 0.85,
+    "enabled": true
+  }
+}
